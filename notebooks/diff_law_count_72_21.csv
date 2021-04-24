@@ -1,0 +1,191 @@
+,ID_x,economy,wbcodev2,Region,Income_group,reportyr_x,WBL INDEX_x,ENTREPRENEURSHIP_x,sign_contract_x,register_business_x,open_bank_account_x,discrimination_credit_prohibited_x,period_x,sign_contract_count_x,register_business_count_x,open_bank_account_count_x,discrimination_credit_prohibited_count_x,total_law_counts_x,ID_y,reportyr_y,WBL INDEX_y,ENTREPRENEURSHIP_y,sign_contract_y,register_business_y,open_bank_account_y,discrimination_credit_prohibited_y,period_y,sign_contract_count_y,register_business_count_y,open_bank_account_count_y,discrimination_credit_prohibited_count_y,total_law_counts_y,development_diff_total_law_count
+0,AFG1972,Afghanistan,AFG,South Asia,Low income,1972,26.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,AFG2021,2021,38.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+1,AGO1972,Angola,AGO,Sub-Saharan Africa,Lower middle income,1972,30.6,0,No,No,No,No,1972-1976,0,0,0,0,0,AGO2021,2021,73.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+2,ALB1972,Albania,ALB,Europe & Central Asia,Upper middle income,1972,59.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ALB2021,2021,91.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+3,ARE1972,United Arab Emirates,ARE,Middle East & North Africa,High income,1972,17.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ARE2021,2021,82.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+4,ARG1972,Argentina,ARG,Latin America & Caribbean,Upper middle income,1972,30.6,0,No,No,No,No,1972-1976,0,0,0,0,0,ARG2021,2021,76.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+5,ARM1972,Armenia,ARM,Europe & Central Asia,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ARM2021,2021,82.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+6,ATG1972,Antigua and Barbuda,ATG,Latin America & Caribbean,High income,1972,54.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ATG2021,2021,66.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+7,AUS1972,Australia,AUS,High income: OECD,High income,1972,54.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,AUS2021,2021,96.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+8,AUT1972,Austria,AUT,High income: OECD,High income,1972,41.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,AUT2021,2021,96.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+9,AZE1972,Azerbaijan,AZE,Europe & Central Asia,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,AZE2021,2021,78.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+10,BDI1972,Burundi,BDI,Sub-Saharan Africa,Low income,1972,45.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BDI2021,2021,73.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+11,BEL1972,Belgium,BEL,High income: OECD,High income,1972,38.1,0,No,No,No,No,1972-1976,0,0,0,0,0,BEL2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+12,BEN1972,Benin,BEN,Sub-Saharan Africa,Lower middle income,1972,28.1,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,BEN2021,2021,77.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,1
+13,BFA1972,Burkina Faso,BFA,Sub-Saharan Africa,Low income,1972,48.1,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,BFA2021,2021,79.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,1
+14,BGD1972,Bangladesh,BGD,South Asia,Lower middle income,1972,35.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BGD2021,2021,49.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+15,BGR1972,Bulgaria,BGR,Europe & Central Asia,Upper middle income,1972,65.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BGR2021,2021,90.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+16,BHR1972,Bahrain,BHR,Middle East & North Africa,High income,1972,20.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BHR2021,2021,55.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+17,BHS1972,"Bahamas, The",BHS,Latin America & Caribbean,High income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BHS2021,2021,81.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+18,BIH1972,Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,1972,58.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BIH2021,2021,85.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+19,BLR1972,Belarus,BLR,Europe & Central Asia,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BLR2021,2021,75.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+20,BLZ1972,Belize,BLZ,Latin America & Caribbean,Upper middle income,1972,51.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BLZ2021,2021,79.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+21,BOL1972,Bolivia,BOL,Latin America & Caribbean,Lower middle income,1972,36.9,0,No,No,No,No,1972-1976,0,0,0,0,0,BOL2021,2021,88.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+22,BRA1972,Brazil,BRA,Latin America & Caribbean,Upper middle income,1972,31.3,50,Yes,No,Yes,No,1972-1976,1,0,1,0,2,BRA2021,2021,85.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,1
+23,BRB1972,Barbados,BRB,Latin America & Caribbean,High income,1972,60.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BRB2021,2021,76.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+24,BRN1972,Brunei Darussalam,BRN,East Asia & Pacific,High income,1972,38.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BRN2021,2021,53.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+25,BTN1972,Bhutan,BTN,South Asia,Lower middle income,1972,55.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,BTN2021,2021,71.9,50,Yes,No,Yes,No,2017-2021,1,0,1,0,2,-1
+26,BWA1972,Botswana,BWA,Sub-Saharan Africa,Upper middle income,1972,25.0,0,No,No,No,No,1972-1976,0,0,0,0,0,BWA2021,2021,63.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+27,CAF1972,Central African Republic,CAF,Sub-Saharan Africa,Low income,1972,45.0,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,CAF2021,2021,76.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,1
+28,CAN1972,Canada,CAN,High income: OECD,High income,1972,63.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,CAN2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+29,CHE1972,Switzerland,CHE,High income: OECD,High income,1972,46.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,CHE2021,2021,85.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+30,CHL1972,Chile,CHL,High income: OECD,High income,1972,33.8,0,No,No,No,No,1972-1976,0,0,0,0,0,CHL2021,2021,80.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+31,CHN1972,China,CHN,East Asia & Pacific,Upper middle income,1972,56.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,CHN2021,2021,75.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+32,CIV1972,CÃƒÂ´te d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,1972,45.6,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,CIV2021,2021,83.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,1
+33,CMR1972,Cameroon,CMR,Sub-Saharan Africa,Lower middle income,1972,45.6,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,CMR2021,2021,60.0,50,Yes,Yes,No,No,2017-2021,1,1,0,0,2,0
+34,COG1972,"Congo, Rep.",COG,Sub-Saharan Africa,Lower middle income,1972,40.0,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,COG2021,2021,49.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,1
+35,COL1972,Colombia,COL,Latin America & Caribbean,Upper middle income,1972,51.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,COL2021,2021,81.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+36,COM1972,Comoros,COM,Sub-Saharan Africa,Lower middle income,1972,35.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,COM2021,2021,65.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+37,CPV1972,Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,1972,36.9,0,No,No,No,No,1972-1976,0,0,0,0,0,CPV2021,2021,86.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+38,CRI1972,Costa Rica,CRI,Latin America & Caribbean,Upper middle income,1972,60.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,CRI2021,2021,83.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+39,CYP1972,Cyprus,CYP,Europe & Central Asia,High income,1972,60.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,CYP2021,2021,91.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+40,CZE1972,Czech Republic,CZE,High income: OECD,High income,1972,64.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,CZE2021,2021,93.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+41,DEU1972,Germany,DEU,High income: OECD,High income,1972,65.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,DEU2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+42,DJI1972,Djibouti,DJI,Middle East & North Africa,Lower middle income,1972,43.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,DJI2021,2021,68.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+43,DMA1972,Dominica,DMA,Latin America & Caribbean,Upper middle income,1972,48.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,DMA2021,2021,62.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+44,DNK1972,Denmark,DNK,High income: OECD,High income,1972,71.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,DNK2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+45,DOM1972,Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,1972,40.0,0,No,No,No,No,1972-1976,0,0,0,0,0,DOM2021,2021,86.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+46,DZA1972,Algeria,DZA,Middle East & North Africa,Lower middle income,1972,30.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,DZA2021,2021,57.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+47,ECU1972,Ecuador,ECU,Latin America & Caribbean,Upper middle income,1972,51.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ECU2021,2021,89.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+48,EGY1972,"Egypt, Arab Rep.",EGY,Middle East & North Africa,Lower middle income,1972,29.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,EGY2021,2021,45.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+49,ERI1972,Eritrea,ERI,Sub-Saharan Africa,Low income,1972,50.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ERI2021,2021,69.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+50,ESP1972,Spain,ESP,High income: OECD,High income,1972,33.8,0,No,No,No,No,1972-1976,0,0,0,0,0,ESP2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+51,EST1972,Estonia,EST,High income: OECD,High income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,EST2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+52,ETH1972,Ethiopia,ETH,Sub-Saharan Africa,Low income,1972,44.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ETH2021,2021,76.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+53,FIN1972,Finland,FIN,High income: OECD,High income,1972,65.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,FIN2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+54,FJI1972,Fiji,FJI,East Asia & Pacific,Upper middle income,1972,51.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,FJI2021,2021,82.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+55,FRA1972,France,FRA,High income: OECD,High income,1972,56.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,FRA2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+56,FSM1972,"Micronesia, Fed. Sts.",FSM,East Asia & Pacific,Lower middle income,1972,61.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,FSM2021,2021,63.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+57,GAB1972,Gabon,GAB,Sub-Saharan Africa,Upper middle income,1972,43.1,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,GAB2021,2021,57.5,50,Yes,Yes,No,No,2017-2021,1,1,0,0,2,0
+58,GBR1972,United Kingdom,GBR,High income: OECD,High income,1972,51.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GBR2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+59,GEO1972,Georgia,GEO,Europe & Central Asia,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GEO2021,2021,85.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+60,GHA1972,Ghana,GHA,Sub-Saharan Africa,Lower middle income,1972,46.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GHA2021,2021,75.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+61,GIN1972,Guinea,GIN,Sub-Saharan Africa,Low income,1972,41.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GIN2021,2021,76.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+62,GMB1972,"Gambia, The",GMB,Sub-Saharan Africa,Low income,1972,49.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GMB2021,2021,74.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+63,GNB1972,Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,1972,28.1,25,Yes,No,No,No,1972-1976,1,0,0,0,1,GNB2021,2021,42.5,25,Yes,No,No,No,2017-2021,1,0,0,0,1,0
+64,GNQ1972,Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,1972,31.9,0,No,No,No,No,1972-1976,0,0,0,0,0,GNQ2021,2021,51.9,0,No,No,No,No,2017-2021,0,0,0,0,0,0
+65,GRC1972,Greece,GRC,High income: OECD,High income,1972,46.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GRC2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+66,GRD1972,Grenada,GRD,Latin America & Caribbean,Upper middle income,1972,45.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GRD2021,2021,80.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+67,GTM1972,Guatemala,GTM,Latin America & Caribbean,Upper middle income,1972,49.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GTM2021,2021,70.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+68,GUY1972,Guyana,GUY,Latin America & Caribbean,Upper middle income,1972,60.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,GUY2021,2021,86.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+69,HKG1972,"Hong Kong SAR, China",HKG,East Asia & Pacific,High income,1972,62.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,HKG2021,2021,89.4,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+70,HND1972,Honduras,HND,Latin America & Caribbean,Lower middle income,1972,48.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,HND2021,2021,75.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+71,HRV1972,Croatia,HRV,Europe & Central Asia,High income,1972,58.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,HRV2021,2021,93.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+72,HTI1972,Haiti,HTI,Latin America & Caribbean,Low income,1972,37.5,0,No,No,No,No,1972-1976,0,0,0,0,0,HTI2021,2021,63.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+73,HUN1972,Hungary,HUN,High income: OECD,High income,1972,66.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,HUN2021,2021,96.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+74,IDN1972,Indonesia,IDN,East Asia & Pacific,Upper middle income,1972,20.6,0,No,No,No,No,1972-1976,0,0,0,0,0,IDN2021,2021,64.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+75,IND1972,India,IND,South Asia,Lower middle income,1972,51.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,IND2021,2021,74.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+76,IRL1972,Ireland,IRL,High income: OECD,High income,1972,55.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,IRL2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+77,IRN1972,"Iran, Islamic Rep.",IRN,Middle East & North Africa,Upper middle income,1972,29.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,IRN2021,2021,31.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+78,IRQ1972,Iraq,IRQ,Middle East & North Africa,Upper middle income,1972,26.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,IRQ2021,2021,45.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+79,ISL1972,Iceland,ISL,High income: OECD,High income,1972,66.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ISL2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+80,ISR1972,Israel,ISR,High income: OECD,High income,1972,57.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ISR2021,2021,80.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+81,ITA1972,Italy,ITA,High income: OECD,High income,1972,51.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ITA2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+82,JAM1972,Jamaica,JAM,Latin America & Caribbean,Upper middle income,1972,54.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,JAM2021,2021,68.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+83,JOR1972,Jordan,JOR,Middle East & North Africa,Upper middle income,1972,20.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,JOR2021,2021,46.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+84,JPN1972,Japan,JPN,High income: OECD,High income,1972,65.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,JPN2021,2021,81.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+85,KAZ1972,Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KAZ2021,2021,69.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+86,KEN1972,Kenya,KEN,Sub-Saharan Africa,Lower middle income,1972,51.9,50,Yes,No,Yes,No,1972-1976,1,0,1,0,2,KEN2021,2021,80.6,50,Yes,No,Yes,No,2017-2021,1,0,1,0,2,0
+87,KGZ1972,Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KGZ2021,2021,76.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+88,KHM1972,Cambodia,KHM,East Asia & Pacific,Lower middle income,1972,51.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KHM2021,2021,75.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+89,KIR1972,Kiribati,KIR,East Asia & Pacific,Lower middle income,1972,48.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KIR2021,2021,78.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+90,KNA1972,St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,1972,58.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KNA2021,2021,71.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+91,KOR1972,"Korea, Rep.",KOR,High income: OECD,High income,1972,38.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KOR2021,2021,85.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+92,KSV1972,Kosovo,KSV,Europe & Central Asia,Upper middle income,1972,67.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KSV2021,2021,91.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+93,KWT1972,Kuwait,KWT,Middle East & North Africa,High income,1972,23.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,KWT2021,2021,28.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+94,LAO1972,Lao PDR,LAO,East Asia & Pacific,Lower middle income,1972,36.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LAO2021,2021,88.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+95,LBN1972,Lebanon,LBN,Middle East & North Africa,Upper middle income,1972,44.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LBN2021,2021,52.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+96,LBR1972,Liberia,LBR,Sub-Saharan Africa,Low income,1972,43.8,0,No,No,No,No,1972-1976,0,0,0,0,0,LBR2021,2021,83.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+97,LBY1972,Libya,LBY,Middle East & North Africa,Upper middle income,1972,36.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LBY2021,2021,50.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+98,LCA1972,St. Lucia,LCA,Latin America & Caribbean,Upper middle income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LCA2021,2021,83.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+99,LKA1972,Sri Lanka,LKA,South Asia,Lower middle income,1972,56.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LKA2021,2021,65.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+100,LSO1972,Lesotho,LSO,Sub-Saharan Africa,Lower middle income,1972,28.8,0,No,No,No,No,1972-1976,0,0,0,0,0,LSO2021,2021,78.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+101,LTU1972,Lithuania,LTU,High income: OECD,High income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LTU2021,2021,93.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+102,LUX1972,Luxembourg,LUX,High income: OECD,High income,1972,42.5,0,No,No,No,No,1972-1976,0,0,0,0,0,LUX2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+103,LVA1972,Latvia,LVA,High income: OECD,High income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,LVA2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+104,MAR1972,Morocco,MAR,Middle East & North Africa,Lower middle income,1972,38.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MAR2021,2021,75.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+105,MDA1972,Moldova,MDA,Europe & Central Asia,Lower middle income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MDA2021,2021,84.4,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+106,MDG1972,Madagascar,MDG,Sub-Saharan Africa,Low income,1972,42.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MDG2021,2021,74.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+107,MDV1972,Maldives,MDV,South Asia,Upper middle income,1972,44.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MDV2021,2021,73.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+108,MEX1972,Mexico,MEX,Latin America & Caribbean,Upper middle income,1972,55.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MEX2021,2021,88.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+109,MHL1972,Marshall Islands,MHL,East Asia & Pacific,Upper middle income,1972,56.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MHL2021,2021,68.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+110,MKD1972,North Macedonia,MKD,Europe & Central Asia,Upper middle income,1972,61.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MKD2021,2021,85.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+111,MLI1972,Mali,MLI,Sub-Saharan Africa,Low income,1972,41.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MLI2021,2021,60.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+112,MLT1972,Malta,MLT,Middle East & North Africa,High income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MLT2021,2021,88.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+113,MMR1972,Myanmar,MMR,East Asia & Pacific,Lower middle income,1972,53.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MMR2021,2021,58.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+114,MNE1972,Montenegro,MNE,Europe & Central Asia,Upper middle income,1972,58.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MNE2021,2021,88.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+115,MNG1972,Mongolia,MNG,East Asia & Pacific,Lower middle income,1972,61.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MNG2021,2021,82.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+116,MOZ1972,Mozambique,MOZ,Sub-Saharan Africa,Low income,1972,33.8,0,No,No,No,No,1972-1976,0,0,0,0,0,MOZ2021,2021,82.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+117,MRT1972,Mauritania,MRT,Sub-Saharan Africa,Lower middle income,1972,39.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MRT2021,2021,48.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+118,MUS1972,Mauritius,MUS,Sub-Saharan Africa,High income,1972,46.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MUS2021,2021,91.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+119,MWI1972,Malawi,MWI,Sub-Saharan Africa,Low income,1972,42.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MWI2021,2021,77.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+120,MYS1972,Malaysia,MYS,East Asia & Pacific,Upper middle income,1972,41.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,MYS2021,2021,50.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+121,NAM1972,Namibia,NAM,Sub-Saharan Africa,Upper middle income,1972,33.8,0,No,No,No,No,1972-1976,0,0,0,0,0,NAM2021,2021,86.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+122,NER1972,Niger,NER,Sub-Saharan Africa,Low income,1972,38.8,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,NER2021,2021,59.4,50,Yes,Yes,No,No,2017-2021,1,1,0,0,2,0
+123,NGA1972,Nigeria,NGA,Sub-Saharan Africa,Lower middle income,1972,49.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,NGA2021,2021,63.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+124,NIC1972,Nicaragua,NIC,Latin America & Caribbean,Lower middle income,1972,58.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,NIC2021,2021,86.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+125,NLD1972,Netherlands,NLD,High income: OECD,High income,1972,65.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,NLD2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+126,NOR1972,Norway,NOR,High income: OECD,High income,1972,63.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,NOR2021,2021,96.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+127,NPL1972,Nepal,NPL,South Asia,Lower middle income,1972,41.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,NPL2021,2021,80.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+128,NZL1972,New Zealand,NZL,High income: OECD,High income,1972,60.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,NZL2021,2021,97.5,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+129,OMN1972,Oman,OMN,Middle East & North Africa,High income,1972,26.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,OMN2021,2021,35.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+130,PAK1972,Pakistan,PAK,South Asia,Lower middle income,1972,38.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,PAK2021,2021,55.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+131,PAN1972,Panama,PAN,Latin America & Caribbean,High income,1972,56.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,PAN2021,2021,79.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+132,PER1972,Peru,PER,Latin America & Caribbean,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,PER2021,2021,95.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+133,PHL1972,Philippines,PHL,East Asia & Pacific,Lower middle income,1972,34.4,0,No,No,No,No,1972-1976,0,0,0,0,0,PHL2021,2021,78.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+134,PLW1972,Palau,PLW,East Asia & Pacific,High income,1972,56.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,PLW2021,2021,58.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+135,PNG1972,Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,1972,48.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,PNG2021,2021,60.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+136,POL1972,Poland,POL,High income: OECD,High income,1972,62.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,POL2021,2021,93.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+137,PRI1972,Puerto Rico (U.S.),PRI,Latin America & Caribbean,High income,1972,58.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,PRI2021,2021,83.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+138,PRT1972,Portugal,PRT,High income: OECD,High income,1972,39.4,0,No,No,No,No,1972-1976,0,0,0,0,0,PRT2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+139,PRY1972,Paraguay,PRY,Latin America & Caribbean,Upper middle income,1972,45.0,50,Yes,No,Yes,No,1972-1976,1,0,1,0,2,PRY2021,2021,94.4,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,2
+140,QAT1972,Qatar,QAT,Middle East & North Africa,High income,1972,29.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,QAT2021,2021,29.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+141,ROM1972,Romania,ROM,Europe & Central Asia,High income,1972,65.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ROM2021,2021,90.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+142,RUS1972,Russian Federation,RUS,Europe & Central Asia,Upper middle income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,RUS2021,2021,73.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+143,RWA1972,Rwanda,RWA,Sub-Saharan Africa,Low income,1972,41.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,RWA2021,2021,80.6,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+144,SAU1972,Saudi Arabia,SAU,Middle East & North Africa,High income,1972,23.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SAU2021,2021,80.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+145,SDN1972,Sudan,SDN,Sub-Saharan Africa,Low income,1972,17.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SDN2021,2021,29.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+146,SEN1972,Senegal,SEN,Sub-Saharan Africa,Lower middle income,1972,35.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SEN2021,2021,66.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+147,SGP1972,Singapore,SGP,East Asia & Pacific,High income,1972,57.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SGP2021,2021,82.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+148,SLB1972,Solomon Islands,SLB,East Asia & Pacific,Lower middle income,1972,48.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SLB2021,2021,56.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+149,SLE1972,Sierra Leone,SLE,Sub-Saharan Africa,Low income,1972,31.9,0,No,No,No,No,1972-1976,0,0,0,0,0,SLE2021,2021,69.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+150,SLV1972,El Salvador,SLV,Latin America & Caribbean,Lower middle income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SLV2021,2021,88.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+151,SMR1972,San Marino,SMR,Europe & Central Asia,High income,1972,57.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SMR2021,2021,80.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+152,SOM1972,Somalia,SOM,Sub-Saharan Africa,Low income,1972,32.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SOM2021,2021,46.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+153,SRB1972,Serbia,SRB,Europe & Central Asia,Upper middle income,1972,67.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SRB2021,2021,93.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+154,SSD1972,South Sudan,SSD,Sub-Saharan Africa,Low income,1972,37.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SSD2021,2021,70.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+155,STP1972,SÃƒÂ£o TomÃƒÂ© and PrÃƒÂ­ncipe,STP,Sub-Saharan Africa,Lower middle income,1972,18.8,0,No,No,No,No,1972-1976,0,0,0,0,0,STP2021,2021,86.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+156,SUR1972,Suriname,SUR,Latin America & Caribbean,Upper middle income,1972,31.3,0,No,No,No,No,1972-1976,0,0,0,0,0,SUR2021,2021,73.8,50,Yes,No,Yes,No,2017-2021,1,0,1,0,2,2
+157,SVK1972,Slovak Republic,SVK,High income: OECD,High income,1972,58.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SVK2021,2021,85.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+158,SVN1972,Slovenia,SVN,High income: OECD,High income,1972,64.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SVN2021,2021,96.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+159,SWE1972,Sweden,SWE,High income: OECD,High income,1972,71.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SWE2021,2021,100.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+160,SWZ1972,Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,1972,26.9,0,No,No,No,No,1972-1976,0,0,0,0,0,SWZ2021,2021,46.3,0,No,No,No,No,2017-2021,0,0,0,0,0,0
+161,SYC1972,Seychelles,SYC,Sub-Saharan Africa,High income,1972,60.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SYC2021,2021,76.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+162,SYR1972,Syrian Arab Republic,SYR,Middle East & North Africa,Low income,1972,29.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,SYR2021,2021,36.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+163,TCD1972,Chad,TCD,Sub-Saharan Africa,Low income,1972,39.4,50,Yes,Yes,No,No,1972-1976,1,1,0,0,2,TCD2021,2021,66.3,50,Yes,Yes,No,No,2017-2021,1,1,0,0,2,0
+164,TGO1972,Togo,TGO,Sub-Saharan Africa,Low income,1972,25.6,0,No,No,No,No,1972-1976,0,0,0,0,0,TGO2021,2021,84.4,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+165,THA1972,Thailand,THA,East Asia & Pacific,Upper middle income,1972,51.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,THA2021,2021,78.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+166,TJK1972,Tajikistan,TJK,Europe & Central Asia,Low income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TJK2021,2021,78.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+167,TMP1972,Timor-Leste,TMP,East Asia & Pacific,Lower middle income,1972,31.9,0,No,No,No,No,1972-1976,0,0,0,0,0,TMP2021,2021,83.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,3
+168,TON1972,Tonga,TON,East Asia & Pacific,Upper middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TON2021,2021,58.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+169,TTO1972,Trinidad and Tobago,TTO,Latin America & Caribbean,High income,1972,43.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TTO2021,2021,75.0,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+170,TUN1972,Tunisia,TUN,Middle East & North Africa,Lower middle income,1972,46.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TUN2021,2021,67.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+171,TUR1972,Turkey,TUR,Europe & Central Asia,Upper middle income,1972,45.6,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TUR2021,2021,82.5,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+172,TWN1972,"Taiwan, China",TWN,East Asia & Pacific,High income,1972,46.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TWN2021,2021,91.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+173,TZA1972,Tanzania,TZA,Sub-Saharan Africa,Lower middle income,1972,61.3,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,TZA2021,2021,81.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+174,UGA1972,Uganda,UGA,Sub-Saharan Africa,Low income,1972,46.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,UGA2021,2021,73.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+175,UKR1972,Ukraine,UKR,Europe & Central Asia,Lower middle income,1972,52.5,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,UKR2021,2021,79.4,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+176,URY1972,Uruguay,URY,Latin America & Caribbean,High income,1972,60.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,URY2021,2021,88.8,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+177,USA1972,United States,USA,High income: OECD,High income,1972,66.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,USA2021,2021,91.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+178,UZB1972,Uzbekistan,UZB,Europe & Central Asia,Lower middle income,1972,50.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,UZB2021,2021,70.6,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+179,VCT1972,St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,1972,55.0,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,VCT2021,2021,68.1,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+180,VEN1972,"Venezuela, RB",VEN,Latin America & Caribbean,Upper middle income,1972,54.4,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,VEN2021,2021,85.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+181,VNM1972,Vietnam,VNM,East Asia & Pacific,Lower middle income,1972,53.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,VNM2021,2021,81.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+182,VUT1972,Vanuatu,VUT,East Asia & Pacific,Lower middle income,1972,43.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,VUT2021,2021,58.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+183,WBG1972,West Bank and Gaza,WBG,Middle East & North Africa,Lower middle income,1972,23.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,WBG2021,2021,26.3,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+184,WSM1972,Samoa,WSM,East Asia & Pacific,Upper middle income,1972,48.1,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,WSM2021,2021,80.0,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+185,YEM1972,"Yemen, Rep.",YEM,Middle East & North Africa,Low income,1972,23.8,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,YEM2021,2021,26.9,75,Yes,Yes,Yes,No,2017-2021,1,1,1,0,3,0
+186,ZAF1972,South Africa,ZAF,Sub-Saharan Africa,Upper middle income,1972,25.6,0,No,No,No,No,1972-1976,0,0,0,0,0,ZAF2021,2021,88.1,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+187,ZAR1972,"Congo, Dem. Rep.",ZAR,Sub-Saharan Africa,Low income,1972,23.1,0,No,No,No,No,1972-1976,0,0,0,0,0,ZAR2021,2021,78.8,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
+188,ZMB1972,Zambia,ZMB,Sub-Saharan Africa,Lower middle income,1972,46.9,75,Yes,Yes,Yes,No,1972-1976,1,1,1,0,3,ZMB2021,2021,81.3,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,1
+189,ZWE1972,Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,1972,36.9,0,No,No,No,No,1972-1976,0,0,0,0,0,ZWE2021,2021,86.9,100,Yes,Yes,Yes,Yes,2017-2021,1,1,1,1,4,4
