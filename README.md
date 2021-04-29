@@ -26,9 +26,9 @@ Inspired by my volunteer work for the program “Dress for Success” of the loc
 Based on the datasets I will research on “Female Entrepreneurs in the economic and legal context” / “Is the Future of Entrepreneurship/Business Female?”
 
 
-## Minimum Viable Product (MVP)
+## Data Question
 
-The MVP will be an interactive dashboard: a color coded (yes=1, no=0) time-lapse world map of 50 years of women legal rights focused on the subject area “Entrepreneurship” in Tableau or Power Bi and a bar plot/histogram/scatterplot which shows economic values of female entrepreneurship worldwide as “Cost of business start-up procedures” per country for example. The intended audience would be anybody who’s interested in women legal rights in an economic context as well as non-profit organizations, government institutions etc. in particular. 
+“Is the Future of Entrepreneurship Female?”
 
 
 ## Data Sources
