@@ -1,6 +1,6 @@
 # capstone
 
-## Executive Summary
+## Overview
 
 “Today, women have just three-quarters of the legal rights of men. In 1970, it was less than half.”[https://blogs.worldbank.org/opendata/how-have-womens-legal-rights-evolved-over-last-50-years] This was a statement by Tea Trumbic for the world bank in 2020. While women legal rights has been improved worldwide over the past 50 years, the goal of my Capstone project was to analyze this progress based on this following dataset: 
 
