@@ -23,9 +23,9 @@ The MVP will be an interactive dashboard: a color coded (yes=1, no=0) time-lapse
 ## Data Sources
 
 •	https://wbl.worldbank.org/en/wbl-data [‘Women, Business and the Law Data for 1971-2021’]
---
+
 •	https://datacatalog.worldbank.org/dataset/world-development-indicators [‘World Development Indicators’]
---
+
 •	Combining two larger sized datasets: 50 years of law data with and 58 years of economic data with Null Values and different data types etc. 
 
 
