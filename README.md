@@ -29,6 +29,25 @@ Inspired by my volunteer work for the program “Dress for Success” of the loc
 
 “Is the Future of Entrepreneurship Female?”
 
+## Analysis
+
+• Analysis of the Development of Women's rights worldwide from 1972 - 2021 over time based on 4 Questions (based on Law Count: Yes = 1, No = 0)
+
+○ Does the law prohibit discrimination in access to credit based on gender?
+○ Can a woman open a bank account in the same way as a man?        
+○ Can a woman register a business in the same way as a man?        
+○ Can a woman sign a contract in the same way as a man?        
+
+• Analysis of Average Law Counts by Income Group
+
+• Analysis of ease starting a business by gender 
+
+• Analysis of financial activity patterns by gender
+
+• Analysis of the development of Women's rights from 1972 - 2021 by income group / region / economy
+
+• Analysis of female business ownership over time and by type of business 
+
 
 ## Data Sources
 ```
