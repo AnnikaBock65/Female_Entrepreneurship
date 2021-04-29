@@ -7,7 +7,6 @@
 ## Motivation
 
 Inspired by my volunteer work for the program “Dress for Success” of the local YWCA Nashville with the mission to empower women to achieve economic independence, the legal gender equality and economic independence of women are going to be the central themes of my capstone project. As part of economic independence of women this capstone project will analyze the subject area “Entrepreneurship” in the economic and legal context.
-Data Question
 
 https://blogs.worldbank.org/opendata/women-entrepreneurs-needed-stat
 https://wbl.worldbank.org/en/data/exploretopics/wbl_rb
@@ -24,9 +23,10 @@ The MVP will be an interactive dashboard: a color coded (yes=1, no=0) time-lapse
 
 •	https://wbl.worldbank.org/en/wbl-data [‘Women, Business and the Law Data for 1971-2021’]
 
-•	https://datacatalog.worldbank.org/dataset/world-development-indicators [‘World Development Indicators’]
+•	https://www.doingbusiness.org/en/doingbusiness 
 
-•	Combining two larger sized datasets: 50 years of law data with and 58 years of economic data with Null Values and different data types etc. 
+•	https://databank.worldbank.org/source/gender-statistics 
 
+•	https://www.doingbusiness.org/en/data/exploretopics/entrepreneurship/gender 
 
 
