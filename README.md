@@ -22,8 +22,7 @@ Since these datasets are very broad, this Capstone project will be focused on �
 
 ## Motivation
 
-Inspired by my volunteer work for the program “Dress for Success” of the local YWCA Nashville with the mission to empower women to achieve economic independence, the legal gender equality and economic independence of women are going to be the central themes of my capstone project. As part of economic independence of women this capstone project will analyze the subject area “Entrepreneurship” in the economic and legal context.
-Based on the datasets I will research on “Female Entrepreneurs in the economic and legal context” / “Is the Future of Entrepreneurship/Business Female?”
+Inspired by my volunteer work for the program “Dress for Success” of the local YWCA Nashville with the mission to empower women to achieve economic independence, the legal gender equality and economic independence of women are the central themes of my capstone project. As part of economic independence of women this capstone project analyzes the subject area “Female Entrepreneurship” in the economic and legal context.
 
 
 ## Data Question
