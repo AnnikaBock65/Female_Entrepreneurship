@@ -50,6 +50,9 @@ Inspired by my volunteer work for the program “Dress for Success” of the loc
 
 • Analysis of female business ownership over time and by type of business 
 
+## Project
+
+You can find my Tableau dashboard here:
 
 ## Data Sources
 ```
