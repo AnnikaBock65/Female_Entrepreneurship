@@ -52,7 +52,7 @@ Inspired by my volunteer work for the program “Dress for Success” of the loc
 
 ## Project
 
-You can find my Tableau dashboard here:
+You can find my Tableau dashboard here: https://public.tableau.com/views/Tableau_Demo_Day_Filter/Story?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ## Data Sources
 ```
