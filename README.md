@@ -46,7 +46,7 @@ Inspired by my volunteer work for the program “Dress for Success” of the loc
 
 • Analysis of financial activity patterns by gender
 
-• Analysis of the development of women's rights from 1972 - 2021 by income group / region / economy
+• Analysis of the development of women's rights 1972 vs. 2021 by income group / region / economy
 
 • Analysis of female business ownership over time and by type of business 
 
